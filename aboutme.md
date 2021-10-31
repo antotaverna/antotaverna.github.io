@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Dra in Astronomia
+subtitle: Dr in Astronomy
 ---
 
 My name is Inigo Montoya. I have the following qualities:
