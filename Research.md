@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
+title: Research
 subtitle: Why you'd want to go on a date with me
 ---
 
-### My publications
+### My research interests
