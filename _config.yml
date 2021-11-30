@@ -18,6 +18,7 @@ navbar-links:
   Research: "Publications"
   Publications:
     - ORCID: "https://orcid.org/0000-0003-1864-005X"
+    - ADS : "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Taverna%2C%20A%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
