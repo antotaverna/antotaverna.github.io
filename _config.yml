@@ -16,8 +16,9 @@ author: Antonela Taverna
 navbar-links:
   About Me: "aboutme"
   Research: "Publications"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Publications:
+    - ORCID: "https://orcid.org/0000-0003-1864-005X"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
